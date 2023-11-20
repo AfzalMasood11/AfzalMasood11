@@ -19,6 +19,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/afzalmasood/](https://www.linkedin.com/in/afzalmasood/)
 
+[![AfzalMasood11's GitHub | Stats](https://stats.quine.sh/AfzalMasood11/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=AfzalMasood11)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/afzalmasood11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afzalmasood11" height="30" width="40" /></a>
