@@ -20,7 +20,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/afzalmasood/](https://www.linkedin.com/in/afzalmasood/)
 
 [![AfzalMasood11's GitHub | Stats](https://stats.quine.sh/AfzalMasood11/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=AfzalMasood11)
-[![AfzalMasood11's GitHub | Languages Over Time](https://stats.quine.sh/AfzalMasood11/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=AfzalMasood11)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
