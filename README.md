@@ -19,6 +19,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/afzalmasood/](https://www.linkedin.com/in/afzalmasood/)
 
+- Checkout my contributions on Stackoverflow: [https://stackoverflow.com/users/2045918/afzal-masood](https://stackoverflow.com/users/2045918/afzal-masood)
+
 [![AfzalMasood11's GitHub | Stats](https://stats.quine.sh/AfzalMasood11/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=AfzalMasood11)
 
 <h3 align="left">Connect with me:</h3>
